@@ -7,6 +7,7 @@ let dayList = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
 let restaurantList = ["Salty Sow", "Kerbey Lane", "Milto's", "Trudy's", "Madam Mam's", "Vert's", "Teji's", "Home"]
 let costList = [30, 10.99, 10.50, 11.70, 13.99, 7.99, 8.99, 0]
 let tipList = [0.20, 0.18, 0.18, 0.18, 0.18, 0.15, 0.15, 0]
+
 // Declare and initialize global mutable variables
 var budgetLeft:Double = 0.0
 var weeklyBudget:Double = 50.00
